@@ -5,6 +5,8 @@
 This neonatal RS-fMRI protocol has been developed in a 3T GE MR750 Discovery and includes 
 T2-w and two GRE-EPI with reversed phase encoding polarity for distortion correction purpose.
 
+![alt text](rs_protocol_img.jpg)
+
 Equivalent 3D acquisition sequences can be found under different names for the different MRI constructors
 - GE: CUBE
 - SIEMENS: SPACE
